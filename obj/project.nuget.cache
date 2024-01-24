@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lra6kyJDhyRjiBOFpOeerTguduRVGmBe7tcykizz+vAclXhqlbFyjFHKmIoG+t8IQhVm/w+9x8+O8h0v9U4d2A==",
+  "success": true,
+  "projectFilePath": "/home/Dian/CrazyTest/CrazyTest.csproj",
+  "expectedPackageFiles": [
+    "/home/Dian/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
