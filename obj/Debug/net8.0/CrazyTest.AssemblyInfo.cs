@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrazyTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f18d1c6b96da34d27b7f2f3dc2cfea7bee70aaec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b9b40a72c4e41ca650aca8b714ef7b87e3de6d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrazyTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrazyTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
